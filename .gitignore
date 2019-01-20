@@ -1,0 +1,7 @@
+#packages
+.Python
+env/
+build/
+
+#environment variables
+.env
